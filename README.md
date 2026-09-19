@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Olá, seja bem vindo! 👋
 
-Sou Luciano Cardeal, Supervisor de Sustentação de Sistemas. 
+Sou Luciano Cardeal, Gerente de Operações de TI. 
 
 🔭 Atuo a mais de 15 anos com tecnologia, em sua grande parte com infraestrutura de Data Center, mas sempre em busca de conhecimento e evolução.
 
