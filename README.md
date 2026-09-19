@@ -24,6 +24,6 @@ Sou Luciano Cardeal, Gerente de Operações de TI.
 ⚡O advento da IA traz novos horizontes e com eles, novas possibilidades.
 
 
-<a href="https://www.linkedin.com/in/lucianocardeal/" rel="nofollow"><img src=""https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/lucianocardeal/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" style="max-width: 100%;"></a>
 
 [![GitHub stats](https://github-readme-stats-orcin-delta-28.vercel.app/api?username=lcardealTHS&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](https://github.com/lcardealTHS)
