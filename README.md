@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 Sou Luciano Cardeal, Supervisor de Sustentação de Sistemas. 
 
 🔭 Atuo a mais de 15 anos com tecnologia, em sua grande parte com infraestrutura de Data Center, mas sempre em busca de conhecimento e evolução.
+
 🌱Com o tempo, desenvolvimentos autorais para resolver os desafios do dia a dia, viraram rotina.
+
 ⚡O advento da IA traz novos horizontes e com eles, novas possibilidades.
 
 
